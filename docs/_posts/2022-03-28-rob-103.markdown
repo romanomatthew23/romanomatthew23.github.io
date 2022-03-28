@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ROB 103"
+date:   2022-03-28 00:00:00 -0400
+categories: posts
+---
+
+In Winter 2021, I co-developed and co-taught a new first-year hands on robotics course! The students made a pallet manipulator (think Kiva/Amazon warehouse robots) for their final project and amazed me on how well they did! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95xv9ae5rcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
