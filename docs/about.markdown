@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Matthew Romano and I am currently a PhD student in Robotics at the University of Michigan in Ann Arbor. I hold my bachelor's degree in Electrical Engineering from the University of Illinois at Urbana-Champaign. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+(Adding More Soon!)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to navigate via the top and check out my linked accounts at the bottom of the page!
 
-
-[jekyll-organization]: https://github.com/jekyll

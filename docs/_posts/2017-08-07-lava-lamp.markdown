@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Lava Lamp"
+date:   2017-08-07 00:00:00 -0400
+categories: posts
+---
+For my ECE Senior Design project my team made an improved Lava Lamp and we won the "Most Marketable Project" Award! [Here](https://courses.engr.illinois.edu/ece445/project.asp?id=1703) is a link to the project.
+
+**The basic idea is that traditional lava lamps are:**
+* Slow to heat up and slow to begin "lava-ing"
+* Dangerous when left on for too long
+* Not very interactive
+
+**Our Improved Lava Lamp Fixes this by:**
+* Using a set of heating resistors on a metal plate to heat the lamp faster
+* Using temperature sensors and regulating the temperature to safe levels
+* Adding Button-Selectable Multi-color LEDs
+
+You can see a time-lapse of a traditional Lava Lamp as well as our Improved version below. The action starts at 0:55 in the first video and about 0:10 or so in the second. Both videos are played at x50 speed.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fU_3Kwqj0c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-pDwFnQh3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
