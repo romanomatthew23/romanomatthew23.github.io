@@ -4,5 +4,6 @@
 
 layout: home
 ---
+<!-- Hello! Welcome to personal website. I love everything Robotics related. -->
 
-This is content
+<!-- _________________ -->
