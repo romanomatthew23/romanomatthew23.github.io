@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Headshot](/images/headshot.jpg)
 
 My name is Matthew Romano and I am currently a PhD student in Robotics at the University of Michigan in Ann Arbor. I hold my bachelor's degree in Electrical Engineering from the University of Illinois at Urbana-Champaign. 
 
