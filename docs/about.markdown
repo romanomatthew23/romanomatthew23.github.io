@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-![Headshot](/images/headshot.jpg)
+## About
 
 My name is Matthew Romano and I am currently a PhD student in Robotics at the University of Michigan in Ann Arbor. I hold my bachelor's degree in Electrical Engineering from the University of Illinois at Urbana-Champaign. 
 
@@ -12,4 +10,4 @@ My name is Matthew Romano and I am currently a PhD student in Robotics at the Un
 
 Feel free to navigate via the top and check out my linked accounts at the bottom of the page!
 
-[back](./)
+<!-- [back](./) -->
