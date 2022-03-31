@@ -29,7 +29,7 @@ github_username:  romanomatthew23
 linkedin_username: romano-matthew
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
