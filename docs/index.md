@@ -15,75 +15,60 @@ I want to do epic things, pursue my passions, and help those around me.
 **BS** Electrical Engineering (Computer Science Minor), University of Illinois Urbana-Champaign (Dec 2016)
 
 ## Research
-<div onclick="location.href='{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html';" 
-            style="cursor: pointer;"
-            style="background: AliceBlue; 
-            /* font-size: 20px;  */
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-<a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-    <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
-</a>
-<h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Cooperative Multilift Slung Load Transportation with Haptic Guidance
+<div style="width: 100%;">
+    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+                "> 
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+        <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
     </a>
-</h2>
-</div>
-<div onclick="location.href='{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html';" style="cursor: pointer;"
-            style="background: AliceBlue; 
-            /* font-size: 20px;  */
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-<a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-    <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
-</a>
-<h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Deformable Formation Control
+    <h2 style="text-align:center;">
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Cooperative Multilift Slung Load Transportation with Haptic Guidance
+        </a>
+    </h2> 
+    </div><div style="margin-left: 46%; width: 8%;               "> 
+    </div>
+    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+        <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
     </a>
-</h2>
+    <h2 style="text-align:center;">
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Deformable Formation Control
+        </a>
+    </h2>
+    </div>
 </div>
 
+<br>
+<br>
 
-
-<div onclick="location.href='{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html';" style="cursor: pointer;"
-            style="background: AliceBlue; 
-            /* font-size: 20px;  */
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
- <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+<div style="width: 100%;">
+    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+                "> 
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
      <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
 </a>
 <h2 style="text-align:center;">
     <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Deformable Formation Planning
     </a>
 </h2>
-</div>
-
-<div onclick="location.href='{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html';" style="cursor: pointer;"
-            style="background: AliceBlue; 
-            /* font-size: 20px;  */
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
- <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+    </div><div style="margin-left: 46%; width: 8%;               "> 
+    </div>
+    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
+     <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
      <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
 </a>
 <h2 style="text-align:center;">
     <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Multi-UAS Wildfire Mapping
     </a>
 </h2>
+    </div>
 </div>
 
-<div onclick="location.href='{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html';" style="cursor: pointer;"
-            style="background: AliceBlue; 
-            /* font-size: 20px;  */
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
- <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+<br>
+
+<div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+                "> 
+     <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
      <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
 </a>
 <h2 style="text-align:center;">
