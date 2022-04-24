@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "ROB 103"
+date:   2021-05-28 00:00:00 -0400
+categories: posts
+---
+
+In Winter 2021, I co-developed and co-taught a new first-year hands on robotics course (ROB 103) at the University of Michigan! This was the second course ever offered in the new undergraduate Robotics major and it was a pleasure to have contributed to the Robotics Institute (and now department!). The students made a pallet manipulator (think Kiva/Amazon warehouse robots) for their final project and amazed me on how well they did! 
+
+Due to a last minute complication, the original instructor could not teach the course, so myself (a PhD student) and Ilya Kovalenko (a post-doc) were given the opportunity in mid-December to co-teach the course which would start in mid-January. However, there was no development whatsoever, it was a hybrid course due to COVID, and it was also hands-on requiring the development of a robot kit. We absolutely sprinted in our development of course materials, hardware, and software. We successfully modified an existing mobile robot platform to use an A* (Arduino based board) for easier student engagement. I designed, organized, purchased, soldered, and shipped 40 robot kits for in-person and remote students by the 3rd week of class, developed and gave half of the technical lecture content (on electronics and programming), and developed and wrote half of the lab assignments (electronics, C++ and Python programming, communication). 
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95xv9ae5rcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

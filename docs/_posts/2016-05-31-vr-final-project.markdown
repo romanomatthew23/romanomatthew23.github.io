@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virtual Reality Final Project - Data Visualization"
-date:   2017-08-07 00:00:00 -0400
+date:   2016-05-31 00:00:00 -0400
 categories: posts
 ---
 

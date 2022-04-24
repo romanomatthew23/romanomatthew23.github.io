@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IMU-Aided Feature Tracking"
-date:   2017-08-07 00:00:00 -0400
+date:   2016-12-31 00:00:00 -0400
 categories: posts
 ---
 
