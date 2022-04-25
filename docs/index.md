@@ -73,13 +73,14 @@ I want to do epic things, pursue my passions, and help those around me.
 <div style="width: 100%;">
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
                 "> 
-    <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
-     <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
-    </a>
-    <h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">Autonomous Roofing
-    </a>
-    </h2>
+        <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
+            <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
+        </a>
+        <h2 style="text-align:center;">
+            <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">Autonomous Roofing
+            </a>
+        </h2>
+    </div>
     <!-- </div><div style="margin-left: 46%; width: 8%;               "> 
     </div>
     <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
