@@ -16,7 +16,7 @@ I want to do epic things, pursue my passions, and help those around me.
 
 ## Research Highlights
 <div style="width: 100%;">
-    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+    <div style="width: 46%; float: left; height: 280px;background: AliceBlue; padding: 10px;
                 "> 
     <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-control.html">
         <img src="{{site.baseurl}}/images/acc2019_teaser_figure.png">
@@ -27,9 +27,9 @@ I want to do epic things, pursue my passions, and help those around me.
     </h2>
     </div><div style="margin-left: 46%; width: 8%;               "> 
     </div>
-    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
+    <div style="margin-left: 54%; width: 46%; height: 280px;background: AliceBlue;    padding: 10px;           "> 
       <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-        <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
+        <img src="{{site.baseurl}}/images/haptic_guidance_1st_person_cropped.jpg">
     </a>
     <h2 style="text-align:center;">
         <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Multilift Slung Load Transport with Haptic Guidance
@@ -71,7 +71,7 @@ I want to do epic things, pursue my passions, and help those around me.
 ## Additional Projects
 
 <div style="width: 100%;">
-    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;height: 240px;
                 "> 
         <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
             <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
@@ -81,8 +81,34 @@ I want to do epic things, pursue my passions, and help those around me.
             </a>
         </h2>
     </div>
-    <!-- </div><div style="margin-left: 46%; width: 8%;               "> 
+    <div style="margin-left: 46%; width: 8%;               "> 
     </div>
-    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
-    </div> -->
+    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;height: 240px;           ">
+        <br>
+        <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
+            <img src="{{site.baseurl}}/images/rob103.jpg">
+        </a>
+        <br><br><br>
+        <h2 style="text-align:center;">
+            <a href="{{site.baseurl}}/posts/2021/05/28/rob-103.html">ROB 103
+            </a>
+        </h2> 
+    </div>
+</div>
+
+<br>
+
+<div style="width: 100%;">
+    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;height: 240px;
+                "> 
+        <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
+            <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
+        </a>
+        <h2 style="text-align:center;">
+            <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">Autonomous Roofing
+            </a>
+        </h2>
+    </div>
+    <div style="margin-left: 46%; width: 54%;               "> 
+    </div>
 </div>
