@@ -14,15 +14,15 @@ I want to do epic things, pursue my passions, and help those around me.
 **MS** Robotics, University of Michigan (May 2019) <br>
 **BS** Electrical Engineering (Computer Science Minor), University of Illinois Urbana-Champaign (Dec 2016)
 
-## Research
+## Research Highlights
 <div style="width: 100%;">
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
                 "> 
-                   <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
+    <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-control.html">
         <img src="{{site.baseurl}}/images/acc2019_teaser_figure.png">
-    </a>
+    </a><br><br><br>
     <h2 style="text-align:center;">
-        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Deformable Formation Control
+        <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-control.html">Deformable Formation Control
         </a>
     </h2>
     </div><div style="margin-left: 46%; width: 8%;               "> 
@@ -32,7 +32,7 @@ I want to do epic things, pursue my passions, and help those around me.
         <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
     </a>
     <h2 style="text-align:center;">
-        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Cooperative Multilift Slung Load Transportation with Haptic Guidance
+        <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Multilift Slung Load Transport with Haptic Guidance
         </a>
     </h2> 
     </div>
@@ -41,24 +41,26 @@ I want to do epic things, pursue my passions, and help those around me.
 <br>
 
 <div style="width: 100%;">
-    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
+    <div style="width: 46%; float: left; background: AliceBlue; padding: 10px; height: 250px;
                 "> 
-           <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-     <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
-</a>
-<h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Multi-UAS Wildfire Mapping
+    <br><br>
+    <a href="{{site.baseurl}}/posts/2022/03/28/wildfire-mapping.html">
+        <img src="{{site.baseurl}}/images/wildfire_mapping.png">
     </a>
-</h2>
+    <br><br><br>
+    <h2 style="text-align:center;">
+        <a href="{{site.baseurl}}/posts/2022/03/28/wildfire-mapping.html">Multi-UAS Wildfire Mapping
+        </a>
+    </h2>
     </div><div style="margin-left: 46%; width: 8%;               "> 
     </div>
-    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;           "> 
+    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px; height: 250px;          "> 
 
-  <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-     <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
-</a>
+  <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-planning.html">
+     <img src="{{site.baseurl}}/images/iros2022.png">
+</a><br><br>
 <h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Deformable Formation Planning
+    <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-planning.html">Deformable Formation Planning
     </a>
 </h2>
     </div>
@@ -66,14 +68,16 @@ I want to do epic things, pursue my passions, and help those around me.
 
 <br>
 
+## Additional Projects
+
 <div style="width: 100%;">
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;
                 "> 
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">
-     <img src="{{site.baseurl}}/images/haptic_guidance_ref_frames.png">
+    <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
+     <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
     </a>
     <h2 style="text-align:center;">
-    <a href="{{site.baseurl}}/posts/2022/03/28/cooperative-payload-haptic-guidance.html">Autonomous Roofing
+    <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">Autonomous Roofing
     </a>
     </h2>
     <!-- </div><div style="margin-left: 46%; width: 8%;               "> 
