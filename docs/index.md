@@ -18,11 +18,11 @@ I want to do epic things, pursue my passions, and help those around me.
 <div style="width: 100%;">
     <div style="width: 46%; float: left; height: 280px;background: AliceBlue; padding: 10px;
                 "> 
-    <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-control.html">
+    <a href="{{site.baseurl}}/posts/2020/07/17/deformable-formation-control.html">
         <img src="{{site.baseurl}}/images/acc2019_teaser_figure.png">
     </a><br><br><br>
     <h2 style="text-align:center;">
-        <a href="{{site.baseurl}}/posts/2022/03/28/deformable-formation-control.html">Deformable Formation Control
+        <a href="{{site.baseurl}}/posts/2020/07/17/deformable-formation-control.html">Deformable Formation Control
         </a>
     </h2>
     </div><div style="margin-left: 46%; width: 8%;               "> 
@@ -101,11 +101,11 @@ I want to do epic things, pursue my passions, and help those around me.
 <div style="width: 100%;">
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;height: 240px;
                 "> 
-        <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">
+        <a href="{{site.baseurl}}/posts/2022/03/28/nsin-hackathon.html">
             <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
         </a>
         <h2 style="text-align:center;">
-            <a href="{{site.baseurl}}/posts/2022/03/28/nailgun-drone.html">Autonomous Roofing
+            <a href="{{site.baseurl}}/posts/2022/03/28/nsin-hackathon.html">Into the Dataverse Hackathon
             </a>
         </h2>
     </div>

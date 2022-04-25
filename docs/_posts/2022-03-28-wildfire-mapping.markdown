@@ -16,3 +16,7 @@ In 2019, ...
 
 
 ![Sea Lord](/images/wildfire-sea-lord.jpg)
+
+[1] J. Castagno, M. Romano, P. Kuevor, and E. Atkins, “Multi-unmanned-aerial-vehicle wildfire
+boundary estimation using a semantic segmentation neural network,” Journal of Aerospace
+Information Systems, 2021. [Google Drive](https://drive.google.com/file/d/1mISrVLrvD-mFrZYgF2QXziCPGD4F03kw/view?usp=sharing). [ARC AIAA](https://arc.aiaa.org/doi/full/10.2514/1.I010912)
