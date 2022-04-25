@@ -102,7 +102,7 @@ I want to do epic things, pursue my passions, and help those around me.
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;height: 240px;
                 "> 
         <a href="{{site.baseurl}}/posts/2022/03/28/nsin-hackathon.html">
-            <img src="{{site.baseurl}}/images/autonomous_roofing_board_view.png">
+            <img src="{{site.baseurl}}/images/SCRIBE_Mockup.png">
         </a>
         <h2 style="text-align:center;">
             <a href="{{site.baseurl}}/posts/2022/03/28/nsin-hackathon.html">Into the Dataverse Hackathon

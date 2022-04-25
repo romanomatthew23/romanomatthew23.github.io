@@ -17,7 +17,7 @@ In this work [1], we demonstrated a proof of concept for using a nailgun-equippe
 
 <br>
 
-This research was featured on the University of Michigan Engineering YouTube channel (below) and attracted signicant attention. Additionally, several news outlets picked up the research including [Gizmodo](https://gizmodo.com/researchers-found-a-good-reason-to-attach-a-nail-gun-to-1838372155), [TechCrunch](https://techcrunch.com/2019/09/20/take-cover-its-a-drone-with-a-nail-gun/), and [VentureBeat]( https://venturebeat.com/2019/09/19/researchers-use-a-nailgun-equipped-drone-to-shingle-a-roof/).
+This research was featured on the University of Michigan Engineering YouTube channel (below) and attracted significant attention. Additionally, several news outlets picked up the research including [Gizmodo](https://gizmodo.com/researchers-found-a-good-reason-to-attach-a-nail-gun-to-1838372155), [TechCrunch](https://techcrunch.com/2019/09/20/take-cover-its-a-drone-with-a-nail-gun/), and [VentureBeat]( https://venturebeat.com/2019/09/19/researchers-use-a-nailgun-equipped-drone-to-shingle-a-roof/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GA445Flxkjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
