@@ -20,6 +20,6 @@ Information Systems, 2021. [Google Drive](https://drive.google.com/file/d/1mISrV
 
 <br>
 
-We were honored with an award by the Sea Lord of the Royal Navy abord HMS Queen Elizabeth (below). We are on the left along with our British counterparts (UK winners) on the right. The red, white, and blue dress shirts were a happy coincidence.
+We were honored with an award by the Sea Lord of the Royal Navy aboard HMS Queen Elizabeth (below). We are on the left along with our British counterparts (UK winners) on the right. The red, white, and blue dress shirts were a happy coincidence.
 ![Sea Lord](/images/wildfire-sea-lord.jpg)
 
