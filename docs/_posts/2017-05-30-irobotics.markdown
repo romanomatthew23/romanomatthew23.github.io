@@ -2,7 +2,7 @@
 layout: post
 title:  "iRobotics"
 date:   2017-05-30 00:00:00 -0400
-categories: posts
+categories: posts undergrad
 ---
 While at UIUC I participated in a robotics competition called the [Midwestern Robotics Design Competition (MRDC)](http://mrdc.ec.illinois.edu/). It is a task based competition in an arena with 4 robots competing at the same time (one year we had to pick up and place soccer cones, another we putted golf balls). It is similar to FIRST robotics for high school.
 

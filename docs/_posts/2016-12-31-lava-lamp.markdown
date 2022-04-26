@@ -2,7 +2,7 @@
 layout: post
 title:  "Lava Lamp"
 date:   2016-12-31 00:00:00 -0400
-categories: posts
+categories: posts undergrad
 ---
 For my ECE Senior Design project my team made an improved Lava Lamp and we won the "Most Marketable Project" Award! [Here](https://courses.engr.illinois.edu/ece445/project.asp?id=1703) is a link to the project.
 

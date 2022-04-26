@@ -2,7 +2,7 @@
 layout: post
 title:  "Sprite Robotics"
 date:   2017-06-30 00:00:00 -0400
-categories: posts
+categories: posts undergrad
 ---
 
 Sprite Robotics (a.k.a Petronics) is a startup company in Champaign, IL out of the UIUC Research Park. They are in the home robotics sector and their first product is Mousr, a robotic toy to play with your cat. Check out the [kickstarter](https://www.kickstarter.com/projects/525985345/mousr-the-robotic-mouse-that-plays-with-your-cat/)! 

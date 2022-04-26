@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtual Reality Final Project - Data Visualization"
 date:   2016-05-31 00:00:00 -0400
-categories: posts
+categories: posts undergrad
 ---
 
 In Spring 2016 I took Steve LaValle's Virtual Reality class. My partner Sifan Wang and I did our final project on data visualization. You can find the project [here](https://github.com/romanomatthew23/dataVisualizationVR).

@@ -2,7 +2,7 @@
 layout: post
 title:  "IMU-Aided Feature Tracking"
 date:   2016-12-31 00:00:00 -0400
-categories: posts
+categories: posts undergrad
 ---
 
 At UIUC I worked in the [Bretl Research Group](http://bretl.csl.illinois.edu/) on the Construction Site Monitoring Project (which aims to use robotics technology to automate this task). Specifically, I worked on a project trying to use Inertial Measurement Unit (IMU) data to improve a feature tracking algorithm. The project can be found [here](https://github.com/jomnipotent17/IMUTrack).

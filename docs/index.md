@@ -9,12 +9,12 @@ Throughout my PhD I have enjoyed researching novel aerospace technologies that c
 I want to do epic things, pursue my passions, and help those around me.
 
 
-## Education    
+# Education    
 **PhD** Robotics, University of Michigan (Expected Aug 2022) <br>
 **MS** Robotics, University of Michigan (May 2019) <br>
 **BS** Electrical Engineering (Computer Science Minor), University of Illinois Urbana-Champaign (Dec 2016)
 
-## Research Highlights
+# Research Highlights
 <div style="width: 100%;">
     <div style="width: 46%; float: left; height: 280px;background: AliceBlue; padding: 10px;
                 "> 
@@ -68,7 +68,7 @@ I want to do epic things, pursue my passions, and help those around me.
 
 <br>
 
-## Additional Projects
+# Additional Projects
 
 <div style="width: 100%;">
     <div style="width: 46%; float: left; background: AliceBlue; padding: 10px;height: 240px;
@@ -109,6 +109,21 @@ I want to do epic things, pursue my passions, and help those around me.
             </a>
         </h2>
     </div>
-    <div style="margin-left: 46%; width: 54%;               "> 
+    <div style="margin-left: 46%; width: 54%; height: 240px;              "> 
     </div>
 </div>
+
+<br>
+
+ <h1>Undergrad & Fun Projects</h1>
+  {% for post in site.categories.undergrad %}
+  <article>
+  <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    
+  </article>
+{% endfor %}
