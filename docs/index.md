@@ -108,8 +108,17 @@ I want to do epic things, pursue my passions, and help those around me.
             <a href="{{site.baseurl}}/posts/2022/03/28/nsin-hackathon.html">Into the Dataverse Hackathon
             </a>
         </h2>
+    </div>    
+    <div style="margin-left: 46%; width: 8%;               "> 
     </div>
-    <div style="margin-left: 46%; width: 54%; height: 240px;              "> 
+    <div style="margin-left: 54%; width: 46%; background: AliceBlue;    padding: 10px;height: 240px;           ">
+        <a href="{{site.baseurl}}/posts/2022/03/28/m330quadrotor-rc-pilot.html">
+            <img src="{{site.baseurl}}/images/m330_quadrotor.png" width= "80%" style="margin-left: 10%;" class="center">
+        </a>
+        <h2 style="text-align:center;">
+            <a href="{{site.baseurl}}/posts/2022/03/28/m330quadrotor-rc-pilot.html">M330-Quadrotor & rc_pilot_a2sys Flight Controller
+            </a>
+        </h2> 
     </div>
 </div>
 
