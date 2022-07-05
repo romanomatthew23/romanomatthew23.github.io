@@ -12,7 +12,4 @@ This work [1] considers a novel haptic guidance scheme where the user simply pus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/22yr16A7ELs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[1] M. Romano, A. Ye, J. Pye, and E. Atkins, “Cooperative Multilift Slung Load Transportation
-using Haptic Admittance Control Guidance,” AIAA Journal of Guidance, Control, and Dynamics,
-2022 (Under Review)
+[1] M. Romano, A. Ye, J. Pye, and E. Atkins, “Cooperative multilift slung load transportation using haptic admittance control guidance,” Journal of Guidance, Control, and Dynamics, pp. 1–14, 2022. [Google Drive](https://drive.google.com/file/d/1yMp2qSH9YLTTTK4zC9SZAaB5-a4TyIoP/view?usp=sharing)[ARC AIAA](https://arc.aiaa.org/doi/10.2514/1.G006587)
