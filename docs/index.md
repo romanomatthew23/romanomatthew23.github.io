@@ -2,15 +2,15 @@
 layout: default
 ---
 # About Me
-I am currently a Robotics PhD student at the University of Michigan. I will be graduating in August 2022. In September I will be starting a new position as Robotics Autonomy Engineer at SkySpecs!
+In September 2022 I will be starting a new position as Robotics Autonomy Engineer at SkySpecs! 
 
-Throughout my PhD I have enjoyed researching novel aerospace technologies that can revolutionize industries. My focus has been on autonomy for teams of unmanned aircraft systems (UAS) and in particular planning and control for diverse missions including: deformable formation control, cooperative multilift slung load transportation with haptic guidance, and multi-UAS wildfire mapping. I am an electronics enthusiast, care about embedded systems, and value real-time, efficient algorithms. The majority of my research has been experimentally validated on actual systems with real-world considerations in mind.
+I recently graduated (August 2022) from the University of Michigan with a PhD in Robotics. Throughout my PhD I have enjoyed researching novel aerospace technologies that can revolutionize industries. My focus has been on autonomy for teams of unmanned aircraft systems (UAS) and in particular planning and control for diverse missions including: deformable formation control, cooperative multilift slung load transportation with haptic guidance, and multi-UAS wildfire mapping. I am an electronics enthusiast, care about embedded systems, and value real-time, efficient algorithms. The majority of my research has been experimentally validated on actual systems with real-world considerations in mind.
 
 I want to do epic things, pursue my passions, and help those around me.
 
 
 # Education    
-**PhD** Robotics, University of Michigan (Expected Aug 2022) <br>
+**PhD** Robotics, University of Michigan (Aug 2022) <br>
 **MS** Robotics, University of Michigan (May 2019) <br>
 **BS** Electrical Engineering (Computer Science Minor), University of Illinois Urbana-Champaign (Dec 2016)
 
